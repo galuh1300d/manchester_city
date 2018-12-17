@@ -5,12 +5,12 @@ import 'firebase/auth'
 import 'firebase/storage'
 
 const config = {
-    apiKey: "AIzaSyDYiC4o4i1r3Hge4sdXEalB10KQ9rIWyQ0",
-    authDomain: "m-city-7874a.firebaseapp.com",
-    databaseURL: "https://m-city-7874a.firebaseio.com",
-    projectId: "m-city-7874a",
-    storageBucket: "m-city-7874a.appspot.com",
-    messagingSenderId: "669950819399"
+    apiKey: "AIzaSyDhQqLMclE_Xy6SGhjcCTyIRU12LMfkHJ0",
+    authDomain: "manchester-city-de60c.firebaseapp.com",
+    databaseURL: "https://manchester-city-de60c.firebaseio.com",
+    projectId: "manchester-city-de60c",
+    storageBucket: "manchester-city-de60c.appspot.com",
+    messagingSenderId: "728301878505"
   };
 
 firebase.initializeApp(config);
